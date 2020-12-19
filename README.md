@@ -11,5 +11,4 @@ As we can see from above two images, the average temperature of June is about 74
 
 ## Summary
 Overall, the temperature in Oahu is relatively stable and it would not change so much comparing the results in June and December. As the average temperature in June and December are 74.9F and 71.04F, we can say that Oahu is a ideal place for summer business like surfs and ice cream business. For a better data analysis, we would make data queries about the weather (if the sun is out) and the wind speed for the consideration of people feelings. For instance, if the wind speed is large and it is a cloudy day, people would still feel cold with temperature of 64F and the ocean waves might be too dangerous to surf. With all of the data, we could make better analysis for our business. 
-
-![](June_temp.PNG)                                |![](Dec_temp.PNG)                                        
+                              
